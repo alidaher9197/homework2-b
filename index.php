@@ -25,5 +25,20 @@
     <p>This is <em>emphasized</em> text.</p>
     <p>This is <u>underlined</u> text</p>
     <p>This is <mark>highlighted</mark> text</p>
+    <p>This sentence <br> contains a line break</p>
+    <hr>
+    <h2>Lists</h2>
+    Unordered List
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Cherry</li>
+    </ul>
+    Ordered List
+    <ol>
+        <li>Wake up</li>
+        <li>Brush teeth</li>
+        <li>Start coding</li>
+    </ol>
 </body>
 </html>
